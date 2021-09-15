@@ -16,8 +16,4 @@ Join our [Discord](https://discord.gg/3BD3RzK2K2) and talk to us!
 
 ### Partners
 
-We are proud to work with our partners:
-
-![](https://hub.autoai.dev/assets/logos/eth-library-lab.svg)
-
-![](https://hub.autoai.dev/assets/logos/cyberport.png)
+We are proud to work with our [partners, patrons, collaborators and friends](https://aid.autoai.org/partners).
