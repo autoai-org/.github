@@ -8,7 +8,7 @@ Hi there! At AutoAI, we're building gears for the future of machine learning - A
 
 * [Project AID](https://github.com/autoai-org/AID): With Project AID, we are trying to build a platform that everyone can upload, share and reuse machine learning models. It is like the App Store, the NPM, and the Python Package Index, but for machine learning models. [Documents](https://aid.autoai.org/) and [Model Hub](https://hub.autoai.dev/).
 * [ShiFTML](https://github.com/autoai-org/shiftml): ShiftML is an efficient and flexible search engine for transfer learning. [Documents](https://shiftml.autoai.org).
-* [TinyML](https://github.com/autoai-org/Tinyml): TinyML is a simple, lightweight machine learning framework implemented in pure Python, for educational purpose. [Documents](https://github.com/autoai-org/Tinyml).
+* [TinyNet](https://github.com/autoai-org/Tinyml): TinyML is a simple, lightweight machine learning framework implemented in pure Python, for educational purpose. [Documents](https://github.com/autoai-org/Tinyml).
 
 #### Data-Centric AI Development
 
