@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hi there! At AutoAI, we're building gears for the future of machine learning - A more automatic, more accessible and more flexible machine learning.
+Hi there! At AutoAI, we're building gears for the future of machine learning - A more automatic, more accessible and more flexible machine learning. Initially we were funded by the innovator fellowship from [ETH Library Lab](https://github.com/eth-library-lab) for the project [AID](https://github.com/autoai-org/AID), and later on continued as a free community for anyone to work together on demoncratizing machine learning.
 
 ### What we do
 
